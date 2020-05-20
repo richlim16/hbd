@@ -1,0 +1,16 @@
+body{
+  background-color: #E2E2E2;
+}
+.back{
+  position: fixed;
+  top:300px;
+  background-color: #FFF;
+  font-family: flower;
+  font-weight: 1000;
+  font-size: 50px;
+  border: 10px solid #000;
+  border-radius: 10px;
+  box-shadow: 10px 10px 0 rgba(254, 254, 0, 1);
+  padding: 2px;
+  z-index: 2;
+}

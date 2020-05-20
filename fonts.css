@@ -7,14 +7,10 @@
     src: url("fonts/Bungee.ttf");
 }
 @font-face {
-    font-family: Fredericka;
-    src: url("fonts/Fredericka.ttf");
-}
-@font-face {
     font-family: Knewave;
     src: url('fonts/Knewave.ttf');
 }
 @font-face {
-    font-family: Rocksalt;
-    src: url('fonts/ RockSalt.ttf');
+    font-family: RockSalt;
+    src: url('fonts/RockSalt.ttf');
 }
