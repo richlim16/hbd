@@ -14,3 +14,7 @@
     font-family: RockSalt;
     src: url('fonts/RockSalt.ttf');
 }
+@font-face{
+    font-family: Consolas;
+    src: url('fonts/Consolas.ttf');
+}
