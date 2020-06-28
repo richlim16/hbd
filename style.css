@@ -13,5 +13,8 @@ body{
   z-index: 2;
 }
 #home{
-  height: 120px;
+  position: relative;
+  top: 150px;
+  height: 80px;
+  transform: scaleX(-1);
 }
