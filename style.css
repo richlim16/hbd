@@ -6,10 +6,10 @@ body{
   top:300px;
   width: 120px;
   color: #000;
-  background-color: #02a388;
+  background-color: #00cfba;
   font-family: Consolas;
   border: 5px solid rgba(0, 0, 0, 1);
-  box-shadow: 10px 10px 0px #02a388,
+  box-shadow: 10px 10px 0px #00cfba,
               inset 5px 5px 0px rgba(255, 255, 255, 1);
   text-align: center;
   z-index: 2;
